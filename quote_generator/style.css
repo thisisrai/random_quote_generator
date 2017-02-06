@@ -1,0 +1,23 @@
+body {
+  background-color: #1dcaff;
+}
+
+.color2 {
+  margin-top: 100px;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 60px;
+}
+
+div{
+  font-family: cursive;
+  border-radius: 5px;
+}
+
+.padding {
+  padding-left: 20px;
+  padding-right: 20px;
+}
